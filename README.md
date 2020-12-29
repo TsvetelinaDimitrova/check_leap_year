@@ -1,2 +1,2 @@
 # check_leap_year
- The program checks the entered year is leap year
+ The program checks if the entered year is a leap year
